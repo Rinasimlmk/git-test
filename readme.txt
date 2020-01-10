@@ -1,3 +1,3 @@
 Git is a version control tool.
 Git is free.
-Git is good.
+Git is very good.
